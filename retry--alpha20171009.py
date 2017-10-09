@@ -1,7 +1,5 @@
 ##一般意义上的策略回测程序，包含一些策略评价参数的计算，收益率，连胜次数，
 ##夏普比例等，待做成一个打包的函数进行运用。
-##
-
 import numpy as np
 import pandas as pd
 import pylab as pl
